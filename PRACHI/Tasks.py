@@ -1,4 +1,3 @@
-# Function
 import datetime
 from speak import Speak
 import pywhatkit
